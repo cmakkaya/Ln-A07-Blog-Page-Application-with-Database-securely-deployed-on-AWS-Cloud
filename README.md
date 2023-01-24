@@ -1,6 +1,6 @@
 # Project : Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53
 
-A07-AWS_Capstone-Deployment-of-Blog-Page-App-using-AWS-Tools (Load Balancer, Auto Scaling, S3, Relational Database Service(RDS), NAT Instance, Bastion Host, Lambda, DynamoDB, Cloudfront, Route 53, VPC's Components (Subnet, Internet Gateway, Endpoint, Route Table))
+A07-AWS_Capstone-Project-Deployment-of-Blog-Page-App-using-AWS-Tools (Load Balancer, Auto Scaling, S3, Relational Database Service(RDS), NAT Instance, Bastion Host, Lambda, DynamoDB, Cloudfront, Route 53, VPC's Components (Subnet, Internet Gateway, Endpoint, Route Table))
   
 ## Description
 
@@ -174,11 +174,11 @@ In the architecture, you can configure your infrastructure using the followings,
 ```text
 clarusway_blog_proj (folder)
 |
-|----Readme.md               # Given to the students (Definition of the project)
-|----src (folder)            # Given to the students (Django Application's )
-|----requirements.txt        # Given to the students (txt file)
-|----lambda_function.py      # Given to the students (python file)
-|----developer_notes.txt     # Given to the students (txt file)
+|----Readme.md               # Given to the DevOps staff (Definition of the project)
+|----src (folder)            # Given to the DevOps staff (Django Application's )
+|----requirements.txt        # Given to the DevOps staff (txt file)
+|----lambda_function.py      # Given to the DevOps staff (python file)
+|----developer_notes.txt     # Given to the DevOps staff (txt file)
 ```
 
 ## Expected Outcome
