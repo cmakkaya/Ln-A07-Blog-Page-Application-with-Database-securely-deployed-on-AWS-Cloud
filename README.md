@@ -1,6 +1,6 @@
 # Project : Blog Page Application (Django) with Database securely deployed on AWS Cloud.
 
-A07-AWS-Project-Deployment-of-Blog-Page-App-using-AWS-Tools (Load Balancer, Auto Scaling, S3, Relational Database Service(RDS), NAT Instance, Bastion Host, Lambda, DynamoDB, Cloudfront, Route 53, VPC's Components (Subnet, Internet Gateway, Endpoint, Route Table), Amazon WAF&Shield.)
+A07-Blog Page Application (Django) with Database securely deployed on AWS Cloud, using AWS Tools (Load Balancer, Auto Scaling, S3, Relational Database Service(RDS), NAT Instance, Bastion Host, Lambda, DynamoDB, Cloudfront, Route 53, VPC's Components (Subnet, Internet Gateway, Endpoint, Route Table), Amazon WAF & Shield).
   
 ## Description
 
